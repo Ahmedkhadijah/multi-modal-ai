@@ -1,0 +1,5 @@
+backend/.env
+backend/node_modules/
+backend/nexus.db
+frontend/node_modules/
+

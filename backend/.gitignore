@@ -1,0 +1,3 @@
+echo ".env
+node_modules/
+nexus.db" > ~/Desktop/new-ai-aggregator/backend/.gitignore
